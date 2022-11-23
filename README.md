@@ -1,4 +1,6 @@
-<img aligh = "center" src="(https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3500&color=6833E4&lines=Hello+dev!+👋;Seja+Bem+Vindo;Me+chamo+Paulo+Gomes)](https://git.io/typing-svg)" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3500&color=6833E4&lines=Hello+dev!+👋;Seja+Bem+Vindo!;Me+chamo+Paulo+Gomes;)](https://git.io/typing-svg)
+
+
 
 <div align="center">
 <h2> Seja, bem vindo!</h2>
@@ -18,6 +20,7 @@
  <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Formando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Formando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Formando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
@@ -25,7 +28,7 @@
 </br>
 
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PGoliveira21/count.svg" /></p>
+
 
 
 ![snake gif](https://github.com/PGoliveira21/PGoliveira21/blob/output/github-contribution-grid-snake.svg)
