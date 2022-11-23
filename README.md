@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3500&color=6833E4&lines=Hello+dev!+👋;Seja+Bem+Vindo;Me+chamo+Paulo+Gomes)](https://git.io/typing-svg)"
+<img aligh = "center" src="(https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3500&color=6833E4&lines=Hello+dev!+👋;Seja+Bem+Vindo;Me+chamo+Paulo+Gomes)](https://git.io/typing-svg)" />
 
 <div align="center">
 <h2> Seja, bem vindo!</h2>
