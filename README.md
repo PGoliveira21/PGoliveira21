@@ -27,7 +27,11 @@
  </div>
 </br>
 
-
+## Sobre min 
+👉 &nbsp;  &nbsp;Estudante de Análise e desenvolvimento de sistemas.<br>
+👉 &nbsp;  &nbsp;Desenvolvedor aprendiz em Java.<br>
+👉 &nbsp;  &nbsp;Atualmente buscando oportunidades!<br>
+👉 &nbsp;  &nbsp;Apaixonado por Futebol, Games e Animes.<br>
 
 
 
