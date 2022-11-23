@@ -33,6 +33,7 @@
 👉 &nbsp;  &nbsp;Atualmente buscando oportunidades!<br>
 👉 &nbsp;  &nbsp;Apaixonado por Futebol, Games e Animes.<br>
 
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-gomes-oliveira/)](https://www.linkedin.com/in/paulo-gomes-oliveira/)
 
 
 ![snake gif](https://github.com/PGoliveira21/PGoliveira21/blob/output/github-contribution-grid-snake.svg)
