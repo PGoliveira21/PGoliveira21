@@ -30,7 +30,7 @@
 ## Sobre min 
 👉 &nbsp;  &nbsp;Estudante de Análise e desenvolvimento de sistemas.<br>
 👉 &nbsp;  &nbsp;Desenvolvedor aprendiz em Java.<br>
-👉 &nbsp;  &nbsp;Atualmente buscando desafios e oportunidades na área de desenvolvimento!<br>
+👉 &nbsp;  &nbsp;Atualmente buscando desafios e oportunidades na área de desenvolvimento<br>
 👉 &nbsp;  &nbsp;Apaixonado por Futebol, Games e Animes.<br>
 
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-gomes-oliveira/)](https://www.linkedin.com/in/paulo-gomes-oliveira/)
