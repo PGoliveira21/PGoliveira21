@@ -1,39 +1,37 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3500&color=6833E4&lines=Hello+dev!+👋;Seja+Bem+Vindo!;Me+chamo+Paulo+Gomes;)](https://git.io/typing-svg)
+### Olá! Eu sou o [Seu Nome] 👋
 
+Desenvolvedor Web em constante evolução. Meu foco atual é dominar o **PHP** e a integração com **APIs REST**, construindo projetos práticos, aplicando boas práticas de código e resolvendo problemas reais.
 
+---
 
-<div align="center">
+### 🛠️ Tecnologias & Ferramentas
 
-</div>
-</br>
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/formandodev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PGoliveira21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-</br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formandodev&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
-</br>
- <div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Formando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Formando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Formando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- </div>
-</br>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-## Sobre min 
-👉 &nbsp;  &nbsp;Estudante de Análise e desenvolvimento de sistemas.<br>
-👉 &nbsp;  &nbsp;Desenvolvedor aprendiz em Java.<br>
-👉 &nbsp;  &nbsp;Atualmente buscando desafios e oportunidades na área de desenvolvimento.<br>
-👉 &nbsp;  &nbsp;Apaixonado por Futebol, Games e Animes.<br>
+---
 
- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-gomes-oliveira/)](https://www.linkedin.com/in/paulo-gomes-oliveira/)
+### 🚀 Projetos em Destaque
 
+💰 **[Sistema de Consulta de Cotações](https://github.com/PGoliveira21/consulta-cotacoes-php)**  
+Aplicação PHP que consome múltiplas APIs REST com sistema de fallback automático e busca inteligente por nome ou sigla da moeda.  
+🔗 [Ver Demo Online](https://ativos.site.je/)
 
-![snake gif](https://github.com/PGoliveira21/PGoliveira21/blob/output/github-contribution-grid-snake.svg)
+💼 **[Portfólio Inicial (Bootstrap)](https://github.com/PGoliveira21/Pagina-Bootstrap)**  
+Meu primeiro projeto de apresentação profissional, focado em layouts responsivos e fundamentos de front-end.  
+🔗 [Ver Demo Online](https://pgoliveira21.github.io/Pagina-Bootstrap/)
+
+---
+
+### 📫 Vamos conversar?
+
+📄 **Meu Currículo:** [curriculo.free.nf](https://curriculo.free.nf/)  
+✉️ **Email:** paulogomesoliveira@outlook.com  
+💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/paulo-gomes-oliveira?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+---
+*💡 "Aprendendo na prática e evoluindo um commit de cada vez."*
