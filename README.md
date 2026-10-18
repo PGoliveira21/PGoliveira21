@@ -1,4 +1,4 @@
-### Olá! Eu sou o [Seu Nome] 👋
+### Olá! Eu sou o Paulo Gomes 👋
 
 Desenvolvedor Web em constante evolução. Meu foco atual é dominar o **PHP** e a integração com **APIs REST**, construindo projetos práticos, aplicando boas práticas de código e resolvendo problemas reais.
 
